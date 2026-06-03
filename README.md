@@ -1,16 +1,30 @@
-# React + Vite
+# GitHub Analyzer 🔍
+ 
+A full-stack web app that analyzes any GitHub profile and displays stats, top repositories, and language breakdowns in a clean, visual UI.
+ 
+## 🚀 Live Demo
+[View Live](https://github-analyzer.vercel.app) 
+ 
+## 📸 Screenshots
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ 
+## ✨ Features
+- 🔎 Search any GitHub username instantly
+- 👤 Display profile info — avatar, name, bio, location, followers
+- 📁 Top 5 repositories with star counts and direct links
+- 📊 Language breakdown pie chart (coming soon)
+- 📤 Shareable profile card (coming soon)
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Vite, Tailwind CSS
+- **API:** GitHub REST API (no key required)
+- **Charts:** Chart.js / react-chartjs-2
+- **Deployment:** Vercel
+## 🏃 Run Locally
+ 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👩‍💻 Author
+**Nisha**
+- GitHub: [@NishaVaiswath](https://github.com/NishaVaiswath)
+- LinkedIn: [Add your LinkedIn here]
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE)
