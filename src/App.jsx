@@ -1,5 +1,5 @@
 import { useState } from "react"
-import LanguageChart from "./Chart"
+import LanguageChart from "./chart"
 
 function App() {
   const [username, setUsername] = useState("")
