@@ -6,7 +6,7 @@ A full-stack web app that analyzes any GitHub profile and displays stats, top re
 [View Live](https://github-analyzer.vercel.app) 
  
 ## 📸 Screenshots
-
+![GitHub Analyzer](public/screenshots/screenshot1.png)
  
 ## ✨ Features
 - 🔎 Search any GitHub username instantly
