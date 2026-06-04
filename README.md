@@ -3,7 +3,7 @@
 A full-stack web app that analyzes any GitHub profile and displays stats, top repositories, and language breakdowns in a clean, visual UI.
  
 ## 🚀 Live Demo
-[View Live](https://github-analyzer.vercel.app) 
+[View Live](https://github-analyzer-sr5e-bffha7twa-nisha-vaiswath-s-projects.vercel.app)
  
 ## 📸 Screenshots
 ![GitHub Analyzer](public/screenshots/screenshot1.png)
